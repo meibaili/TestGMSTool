@@ -1,0 +1,23 @@
+{
+    "type": "Inelastic",
+    "numGM": 11.0,
+    "minMag": 6.0,
+    "maxMag": 8.0,
+    "maxRjb": 40.0,
+    "minSF": 0.25,
+    "maxSF": 4.0,
+    "maxRecEvt": 2.0,
+    "numPulse": null,
+    "minPulseT": null,
+    "minDuration": null,
+    "targetSpectraFileNames": [
+        "TargetSpectra_Elastic",
+        "TargetSpectra_ductility1.5",
+        "TargetSpectra_ductility3.0"
+    ],
+    "databaseFileNames": [
+        "Horizontal_elastic_PSA",
+        "Horizontal_inelastic_1.5",
+        "Horizontal_inelastic_3"
+    ]
+}
